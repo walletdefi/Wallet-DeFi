@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Purchasing and sales rates
+# 💱 Purchasing and sales rates
 

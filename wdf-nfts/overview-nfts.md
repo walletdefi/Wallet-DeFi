@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Overview Nft's
+# 👻 Overview Nft's
 
 ## All NFTs in One Place with Trust Wallet
 

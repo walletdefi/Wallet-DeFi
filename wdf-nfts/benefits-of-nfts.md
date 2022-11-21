@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Benefits of Nft's
+# 💡 Benefits of Nft's
 

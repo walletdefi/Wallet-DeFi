@@ -1,4 +1,4 @@
-# Stake
+# 🪙 Stake
 
 ## What is Staking coins?
 

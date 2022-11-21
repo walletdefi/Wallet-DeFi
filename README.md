@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Wallet DeFi
+# 💲 Wallet DeFi
 
 ### Everything you need in one place
 

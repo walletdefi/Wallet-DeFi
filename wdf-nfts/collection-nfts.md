@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Collection NFT's
+# 📚 Collection NFT's
 

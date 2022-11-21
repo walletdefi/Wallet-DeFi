@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# NFT's staking
+# 💰 NFT's staking
 
