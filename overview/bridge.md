@@ -1,4 +1,7 @@
 ---
+description: >-
+  The Bridge will help you swap WDF tokens between Binance Smart Chain Network
+  and Ethereum Network.
 coverY: 0
 ---
 
@@ -16,10 +19,6 @@ A bridge can be thought of as a simple information exchanger between blockchains
 ### `DeFi Wallet Bridge`
 
 At Wallet DeFi we will have our own transaction bridge, where the protocol will operate on the main tokens, so we can make transactions from the BSC network to the ETH network, we can do the opposite, among other options, always allowing bidirectional information between the selected blockchains. Below is an image of the bridge on our platform:
-
-{% hint style="success" %}
-The Bridge will help you swap WDF tokens between Binance Smart Chain Network and Ethereum Network.
-{% endhint %}
 
 <figure><img src="../.gitbook/assets/BRIGDE.JPG" alt=""><figcaption></figcaption></figure>
 

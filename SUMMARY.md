@@ -10,8 +10,8 @@
 
 ## Ways Of Earning
 
-* [⛰ Farming](ways-of-earning/farming.md)
 * [🪙 Stake](ways-of-earning/stake.md)
+* [⛰ Farming](ways-of-earning/farming.md)
 * [🔐 Vault](ways-of-earning/vault.md)
 * [🔁 BuyBack](ways-of-earning/buyback.md)
 
