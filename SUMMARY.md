@@ -19,9 +19,3 @@
 * [💱 Purchasing and sales rates](overview/purchasing-and-sales-rates.md)
 * [🛤 Roadmap](overview/roadmap.md)
 * [🕵♀ KYC & Audit](overview/kyc-and-audit.md)
-
-## Buy WDF Token
-
-## Social Media
-
-* [Website](https://walletdefi.app/)

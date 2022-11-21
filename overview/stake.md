@@ -22,3 +22,5 @@ By locking up tokens on our platform, you can receive rewards depending on the s
 As more people, especially institutional investors, recognize the crypto market's profitability and efficiency, staking is gradually becoming a method of obtaining passive income by simply stake coins in a wallet. Stake Wallet DeFi and earn $WDF tokens in rewards. Since staking cryptocurrencies necessitate certain technological crypto know-how and compliance criteria, including those lacking technical knowledge of Wallet DeFi, staking and receiving rewards. In response to the tremendous increase in crypto staking, If you are interested in earning a passive income by staking, this is the place to be.
 
 <figure><img src="../.gitbook/assets/STAKE.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/calculator stake.JPG" alt=""><figcaption></figcaption></figure>
