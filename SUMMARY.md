@@ -7,27 +7,20 @@
 * [🌁 Bridge](overview/bridge.md)
 * [💥 DeFi Concepts](overview/defi-concepts.md)
 * [📌 Web 3 Concepts](overview/web-3-concepts.md)
-
-## Ways Of Earning
-
-* [🪙 Stake](ways-of-earning/stake.md)
-* [⛰ Farming](ways-of-earning/farming.md)
-* [🔐 Vault](ways-of-earning/vault.md)
-* [🔁 BuyBack](ways-of-earning/buyback.md)
-
-## WDF NFT's
-
-* [👻 Overview Nft's](wdf-nfts/overview-nfts.md)
-* [💰 NFT's staking](wdf-nfts/nfts-staking.md)
-* [📚 Collection NFT's](wdf-nfts/collection-nfts.md)
-* [💡 Benefits of Nft's](wdf-nfts/benefits-of-nfts.md)
+* [🪙 Stake](overview/stake.md)
+* [⛰ Farming](overview/farming.md)
+* [🔐 Vault](overview/vault.md)
+* [🔁 BuyBack](overview/buyback.md)
+* [👻 Overview Nft's](overview/overview-nfts.md)
+* [💰 NFT's staking](overview/nfts-staking.md)
+* [💡 Benefits of Nft's](overview/benefits-of-nfts.md)
+* [📚 Collection NFT's](overview/collection-nfts.md)
+* [📊 Tokenomics](overview/tokenomics.md)
+* [💱 Purchasing and sales rates](overview/purchasing-and-sales-rates.md)
+* [🛤 Roadmap](overview/roadmap.md)
+* [🕵♀ KYC & Audit](overview/kyc-and-audit.md)
 
 ## Buy WDF Token
-
-* [📊 Tokenomics](buy-wdf-token/tokenomics.md)
-* [💱 Purchasing and sales rates](buy-wdf-token/purchasing-and-sales-rates.md)
-* [🛤 Roadmap](buy-wdf-token/roadmap.md)
-* [🕵♀ KYC & Audit](buy-wdf-token/kyc-and-audit.md)
 
 ## Social Media
 
