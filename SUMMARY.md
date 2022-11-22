@@ -24,4 +24,5 @@
 * [▪ Medium Official](https://medium.com/@walletdefi)
 * [▪ Youtube Official](https://www.youtube.com/channel/UCAvE71P\_tG611pVg2hpJl1Q)
 * [▪ Website Official](https://dypwebsite.vercel.app/)
+* [▪ Discord Official](https://discord.gg/wgSM9A9mMU)
 * [▪ Buy $WDF](https://www.pinksale.finance/?chain=BSC)
