@@ -4,22 +4,22 @@ coverY: 0
 
 # 💲 Wallet DeFi
 
-### Everything you need in one place
+### `Everything you need in one place`
 
-* [ ] Get, swap & hold many different cryptocurrencies
-* [ ] Store stablecoins to avoid market volatility.
-* [ ] Easily earn interest on the crypto in your wallet
-* [ ] Stay private & secure storing your privacy coins.
-* [ ] Buy more crypto with your credit card.
-* [ ] Swap or trade your assets in seconds.
+* [x] Get, swap & hold many different cryptocurrencies
+* [x] Store stablecoins to avoid market volatility.
+* [x] Easily earn interest on the crypto in your wallet
+* [x] Stay private & secure storing your privacy coins.
+* [x] Buy more crypto with your credit card.
+* [x] Swap or trade your assets in seconds.
 
-#### Multi Cryptocurrency Wallet App
+### `DeFi Web Wallet`
 
-Securely carry your favorite cryptocurrencies on your Android and Apple devices with Trust Wallet. With an average user review of 4.7 / 5.0, you can feel confident your Digital Assets are private and safe.
+Safely carry your favorite cryptocurrencies. With an average user review of 6.7/ 8.0, you can feel confident that your digital assets are private and safe.
 
-#### Thousands of Supported Coins
+### `Thousands of Supported Coins`&#x20;
 
-Our multicoin wallet app supports the main blockchains within the Ethereum ecosystem, and works with any ERC20, BEP2 and [ERC721](https://trustwallet.com/collectibles-wallet) tokens whilst also providing coverage as a [Bitcoin Wallet](https://trustwallet.com/bitcoin-wallet). We've also recently added support for Binance Smart Chain. The Trust Wallet development team continues to add support for more cryptocurrencies every month, so be sure to check for updates. Or better yet, [reach out to our team ](https://developer.trustwallet.com/wallet-core/newblockchain)to share support for your favourite coins and get them added into Trust Wallet!
+Our multicoin wallet app supports the main blockchains within the Ethereum ecosystem, and works with any ERC20, BEP2 and ERC721 tokens whilst also providing coverage as a Bitcoin Wallet. We've also recently added support for Binance Smart Chain. The Wallet DeFi development team continues to add support for more cryptocurrencies every month, so be sure to check for updates. Or better yet, reach out to our team to share support for your favourite coins and get them added into Wallet DeFi !
 
 ### `WDF Governance`&#x20;
 

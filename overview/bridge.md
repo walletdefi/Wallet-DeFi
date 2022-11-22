@@ -1,4 +1,7 @@
 ---
+description: >-
+  The Bridge will help you swap WDF tokens between Binance Smart Chain Network
+  and Ethereum Network.
 coverY: 0
 ---
 

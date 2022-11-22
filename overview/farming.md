@@ -1,4 +1,8 @@
 ---
+description: >-
+  Automatically adds liquidity to Uniswap V2 & deposit to the staking contract
+  using one asset. To start earning, all you need is to deposit one of the
+  supported assets (WETH, WBTC, USDC, or USDT) and e
 coverY: 0
 ---
 
@@ -19,10 +23,10 @@ Moreover, as more investors add funds to the related liquidity pool, the value o
 
 At Wallet Defi, we will develop blockchains through HTTP protocols, which will generate pools of liquidity in exchange for interest and other rewards for our investors, so that all holders will have access to our pools with exceptional rewards through our return rates.
 
-|  No lock |    30D    |    60D    |    90D    |
-| :------: | :-------: | :-------: | :-------: |
-| **`5%`** | **`10%`** | **`15%`** | **`20%`** |
-
 <figure><img src="../.gitbook/assets/FARMING.JPG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Farming 1.JPG" alt=""><figcaption></figcaption></figure>
+
+|  No lock |    30D    |    60D    |    90D    |
+| :------: | :-------: | :-------: | :-------: |
+| **`5%`** | **`10%`** | **`15%`** | **`20%`** |

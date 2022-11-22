@@ -1,4 +1,8 @@
 ---
+description: >-
+  Through governance, WDF holders can vote to add more pools, burn tokens, or
+  allocate WDF toward grants, strategic partnerships, governance initiatives,
+  and other programs.
 coverY: 0
 ---
 
