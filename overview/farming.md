@@ -27,3 +27,6 @@ At Wallet Defi, we will develop blockchains through HTTP protocols, which will g
 
 <figure><img src="../.gitbook/assets/Farming 1.JPG" alt=""><figcaption></figcaption></figure>
 
+|  No lock |    30D    |    60D    |    90D    |
+| :------: | :-------: | :-------: | :-------: |
+| **`5%`** | **`10%`** | **`15%`** | **`20%`** |
