@@ -41,3 +41,32 @@ Time for staking has finally arrived! You can now do even more with your NFT. St
 
 Discover all the little details that make each cat as smug, cute and adoptable as the other. You can easily discover their story and personality by checking out their outfit, their expression – and of course, what kind of watch they’re into.\
 We love all of our cats, but some of their watches make them stand out a bit more than others. We’ll let you be the judge of that.
+
+### The society
+
+We at Cats and Watches Society acknowledge that each cat has its own freedom of expression. By letting our cats have their own style, we really let them showcase their true colors and personality. Of course, some cats have **more style** than others and that’s totally fine.\
+Think about what could make your cat more unique…Do they prefer their own natural coat? Do you want to give them a cowboy suit? Maybe a unicorn horn? The **possibilities are almost endless!**\
+****Keep in mind that cats are particularly fond of watches in this society, so make sure to give them a cool watch to match their outfit and personality.
+
+### `Society Benefits`
+
+After the minting period is over, the Society Benefits zone will become active and you can get cool stuff such as 10% from minting fees and you will be introduced to the CAWS staking pool. The benefits zone will only be available for wallets that have adopted and are holding at least one cat. Are you a cat lover? Minting and owning more than one cat increases your share from the staking pool, and will increase your rewards!
+
+Later on, the play to earn NFT concept will become active, making it possible for holders to get all sorts of additional rewards.\
+Once the minting is over, each CATS holder will be able to mint an additional NFT on Game for free! These free NFTs will provide additional future benefits for the CATS holders as well.
+
+### `Caws Roadmap`
+
+* [ ] 10,000 CATS are minted (Coming Soon)
+* [ ] 5 BNB/ETH Giveaway
+* [ ] We pay 20% of minting fees to holders
+* [ ] Introduction of CATS staking pool to earn BNB/ETH rewards
+* [ ] You too can have a CAT! Participate in a draw for 5 Prizes worth $15K
+* [ ] Lots of cool merch
+* [ ] CATS holders will be able to mint an additional NFT to game for free
+* [ ] CATS 2D Mobile/PC Game
+* [ ] You can buy and sell on secondary market through OpenSea
+* [ ] Listing on Rarity Tools
+* [ ] Virtual reality in Metaverse begins for CATS
+* [ ] Play to earn NFT concept becomes active for CATS holders
+
