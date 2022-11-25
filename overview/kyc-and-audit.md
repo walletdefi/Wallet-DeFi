@@ -7,6 +7,8 @@ coverY: 0
 
 ### `Security`
 
-Our key goals are safety, security, and trustworthiness. The multiple benefits provided by our system based on blockchain and smart contracts make it increasingly difficult to breach its security. We survive by staying on the cutting edge of technical security.
+Wallet Defi unquestionably values your security. This is why we have chosen three reputable security audit companies: to provide their services in an effort to avoid any vulnerabilities in the development of our smart contracts.
+
+In addition, all of our smart contracts are monitored 24/7 through a Security Oracle, powered by.
 
 ### `Coming soon KYC & Audit.`

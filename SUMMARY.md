@@ -11,7 +11,7 @@
 * [⛰ Farming](overview/farming.md)
 * [🔐 Vault](overview/vault.md)
 * [🔁 BuyBack](overview/buyback.md)
-* [👻 Overview Nft's](overview/overview-nfts.md)
+* [👻 Overview NFT's](overview/overview-nfts.md)
 * [📊 Tokenomics](overview/tokenomics.md)
 * [💱 Purchasing and sales rates](overview/purchasing-and-sales-rates.md)
 * [🛤 Roadmap](overview/roadmap.md)

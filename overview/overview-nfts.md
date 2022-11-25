@@ -1,9 +1,9 @@
 ---
-cover: ../.gitbook/assets/CAPA-GITBOOK.png
-coverY: 0
+cover: ../.gitbook/assets/capa.JPG
+coverY: -182.8846153846154
 ---
 
-# 👻 Overview Nft's
+# 👻 Overview NFT's
 
 ### `Overview NFT's Wallet DeFi`
 

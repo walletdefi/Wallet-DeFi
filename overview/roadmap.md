@@ -7,10 +7,10 @@ coverY: 0
 
 ### 2022 Q4
 
-* [ ] Creation of Wallet Defi
-* [ ] Wallet Defi Whitepaper Release
+* [x] Creation of Wallet Defi
+* [x] Wallet Defi Whitepaper Release
 * [ ] Building WDF BEP-20 / ERC-20 / AVAX Token Smart Contract
-* [ ] Wallet Defi Community Marketing
+* [x] Wallet Defi Community Marketing
 
 ### 2022 Q4
 
