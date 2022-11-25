@@ -14,6 +14,18 @@ coverY: 0
 * [x] Buy more crypto with your credit card.
 * [x] Swap or trade your assets in seconds.
 
+### `Why use`` ``DeFi Wallet Defi`
+
+Through our strong foundation, we aim to bring you a powerful decentralized ecosystem that faces the future. In addition to a variety of products and services currently offered like yield farming and staking, we are constantly building and expanding our scope to include more advanced DeFi and educational tools, NFTs and even Metaverse gaming, making us accessible for both beginner and advanced users.
+
+These products are created with unique smart contracts utilizing WDF’s revolutionary and proprietary anti-manipulation functionality, paying users in native tokens such as BNB, ETH, and AVAX.
+
+### `Calculate your`` ``staking`
+
+Choose your chain, deposit amount, and lock period to calculate your earnings.
+
+<figure><img src=".gitbook/assets/calculator.JPG" alt=""><figcaption></figcaption></figure>
+
 ### `DeFi Web Wallet`
 
 Safely carry your favorite cryptocurrencies. With an average user review of 6.7/ 8.0, you can feel confident that your digital assets are private and safe.
