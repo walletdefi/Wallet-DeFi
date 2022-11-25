@@ -11,4 +11,5 @@ The WDF Vault is an automated smart contract with Compound Protocol integration 
 | :---------: |
 | **`5-20%`** |
 
-<figure><img src="../.gitbook/assets/VAULT.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vault.JPG" alt=""><figcaption></figcaption></figure>
+

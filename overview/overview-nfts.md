@@ -19,9 +19,15 @@ Trust Wallet provides an easy way to store and access all your crypto collectibl
 
 ### `Wallet DeFi - Come in and Join the society !`
 
-Since the beginning of time, cats have been worshiped as Gods and they will never let you forget that! In an endless quest to preserve their God Like status, cats have taken to a new exquisite hobby: They love to collect watches! Well, just like cats, watches are always right and they require a lot of attention and care to keep their pristine condition.
+Since the beginning of time, cats have been worshiped like gods and they will never let you forget it! In a never-ending quest to preserve their god-like status, cats have taken up a fancy new hobby: they love luxurious styles Well, just like cats, styles are always right and require a lot of attention and care to keep them in pristine condition.
 
-Cats and Watches Society (CATS) are randomly generated Cat NFTs from over 125 different traits. The Society’s population has almost reached its capacity and is ready for adoption!These unique icons will live on the Polygon blockchain as MATIC tokens and they’ll be hosted on Opensea.Through the adoption process, your cat will receive a legal luxury trait and will also grant you access to the membership's Members Only Benefit Zone. As a new cat owner, you will receive 10% of minting fees and be able to join the CATS betting pool to earn ETH rewards.
+Fabulous Cats (CATS) are randomly generated cat NFTs from over 125 different traits. The Society's population has almost reached capacity and is ready for adoption!
+
+These unique icons will live on the Polygon blockchain as MATIC tokens and they’ll be hosted on Opensea.
+
+Through the adoption process, your cat will receive a cool luxury feature and will also grant you access to the association's members-only benefit zone. As a new cat owner, you will receive 10% of minting fees and be able to join the CATS betting pool to earn ETH rewards.
+
+
 
 ### `Cats Society`
 
@@ -29,31 +35,41 @@ Cats and Watches Society (CATS) are randomly generated Cat NFTs from over 125 di
 * To get your **CATS NFT**,
 * check out the collection on OpenSea.
 
+<figure><img src="../.gitbook/assets/CAT.JPG" alt=""><figcaption></figcaption></figure>
+
 ### `Cats 2D Game`
 
 * Play as a CAT NFT inspired character.&#x20;
 * Exclusive to CAT NFT holders.
 
+<figure><img src="../.gitbook/assets/GAME.JPG" alt=""><figcaption></figcaption></figure>
+
 ### `NFT Staking`&#x20;
 
 Time for staking has finally arrived! You can now do even more with your NFT. Staking is as easy as you’d expect: To get started, simply select one or all of your minted NFTs, and begin earning continuous ETH rewards!
 
+<figure><img src="../.gitbook/assets/NFT STAKING.JPG" alt=""><figcaption></figcaption></figure>
+
 ### `All the Traits`
 
-Discover all the little details that make each cat as smug, cute and adoptable as the other. You can easily discover their story and personality by checking out their outfit, their expression – and of course, what kind of watch they’re into.\
-We love all of our cats, but some of their watches make them stand out a bit more than others. We’ll let you be the judge of that.
+Discover all the little details that make each cat as smug, cute and adoptable as the other. You can easily discover their story and personality by checking out their outfit.
+
+We adore all of our cats, but some of their luxury items make them stand out a little more than others. We'll let you be the judge of that.
 
 ### The society
 
-We at Cats and Watches Society acknowledge that each cat has its own freedom of expression. By letting our cats have their own style, we really let them showcase their true colors and personality. Of course, some cats have **more style** than others and that’s totally fine.\
-Think about what could make your cat more unique…Do they prefer their own natural coat? Do you want to give them a cowboy suit? Maybe a unicorn horn? The **possibilities are almost endless!**\
-****Keep in mind that cats are particularly fond of watches in this society, so make sure to give them a cool watch to match their outfit and personality.
+We at Cats Society acknowledge that each cat has its own freedom of expression. By letting our cats have their own style, we really let them showcase their true colors and personality. Of course, some cats have more style than others and that's totally fine.
+
+Think about what could make your cat more unique…Do they prefer their own natural coat? Do you want to give them a cowboy suit? Maybe a unicorn horn? The possibilities are almost endless!
+
+Keep in mind that cats are particularly fond of watches in this society, so make sure to give them a cool outfit to match their outfit and personality.
 
 ### `Society Benefits`
 
-After the minting period is over, the Society Benefits zone will become active and you can get cool stuff such as 10% from minting fees and you will be introduced to the CAWS staking pool. The benefits zone will only be available for wallets that have adopted and are holding at least one cat. Are you a cat lover? Minting and owning more than one cat increases your share from the staking pool, and will increase your rewards!
+After the minting period is over, the Society Benefits zone will become active and you can get cool stuff such as 10% from minting fees and you will be introduced to the CATS staking pool. The benefits zone will only be available for wallets that have adopted and are holding at least one cat. Are you a cat lover? Minting and owning more than one cat increases your share from the staking pool, and will increase your rewards!
 
-Later on, the play to earn NFT concept will become active, making it possible for holders to get all sorts of additional rewards.\
+Later on, the play to earn NFT concept will become active, making it possible for holders to get all sorts of additional rewards.
+
 Once the minting is over, each CATS holder will be able to mint an additional NFT on Game for free! These free NFTs will provide additional future benefits for the CATS holders as well.
 
 ### `Caws Roadmap`

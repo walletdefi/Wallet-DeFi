@@ -18,8 +18,6 @@ All blockchains have one thing in common: transactions need to get validated. Bi
 
 The standard methods for staking are usually holding coins in your wallet or locking them in a smart contract (masternodes). Some coins added randomness to the process of staking and voting so that bad players have a hard time manipulating outcomes. The process can be similar to a lottery in which the number of crypto coins you hold is equivalent to holding a given number of lottery tickets. Staking systems can also allow delegation in which each individual delegates their voting rights and earned income to a trusted party. Those delegates then earn all the rewards for block validation and pay their loyal supporters some form of dividends in return for their vote.
 
-<figure><img src="../.gitbook/assets/calculator stake.JPG" alt=""><figcaption></figcaption></figure>
-
 ### `Stake Wallet DeFi`
 
 Crypto staking is a new way to earn passive income in the crypto world. It lets users to lock their assets on our platform to receive rewards. All without the need to sell their tokens. This allows them to earn a passive income while still maintaining ownership of their tokens.&#x20;
@@ -32,4 +30,4 @@ As more people, especially institutional investors, recognize the crypto market'
 | :------: | :-------: | :-------: | :-------: |
 | **`5%`** | **`15%`** | **`20%`** | **`35%`** |
 
-<figure><img src="../.gitbook/assets/STAKE.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/STAKING.JPG" alt=""><figcaption></figcaption></figure>

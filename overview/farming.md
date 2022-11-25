@@ -26,4 +26,4 @@ At Wallet Defi, we will develop blockchains through HTTP protocols, which will g
 
 <figure><img src="../.gitbook/assets/FARMING.JPG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Farming 1.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/FARMING 1.JPG" alt=""><figcaption></figcaption></figure>
