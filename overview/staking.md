@@ -3,9 +3,9 @@ cover: ../.gitbook/assets/CAPA-GITBOOK.png
 coverY: 0
 ---
 
-# 🪙 Stake
+# 🪙 Staking
 
-### `Stake Introduction`
+### `StakingIntroduction`
 
 All blockchains have one thing in common: transactions need to get validated. Bitcoin for example does this in a process called mining which is known to use a lot of electricity (Proof-of-Work). There are, though, other consensus mechanisms that are used for validation. Proof-of-Stake (PoS) is one such consensus mechanism that has several variations of its own, as well as some hybrid models. To keep things simple, we will refer to all of these as staking. Coin staking gives currency holders some decision power on the network. By staking coins, you gain the ability to vote and generate an income. It is quite similar to how someone would receive interest for holding money in a bank account or giving it to the bank to invest.
 
@@ -18,9 +18,9 @@ All blockchains have one thing in common: transactions need to get validated. Bi
 
 The standard methods for staking are usually holding coins in your wallet or locking them in a smart contract (masternodes). Some coins added randomness to the process of staking and voting so that bad players have a hard time manipulating outcomes. The process can be similar to a lottery in which the number of crypto coins you hold is equivalent to holding a given number of lottery tickets. Staking systems can also allow delegation in which each individual delegates their voting rights and earned income to a trusted party. Those delegates then earn all the rewards for block validation and pay their loyal supporters some form of dividends in return for their vote.
 
-### `Stake Wallet DeFi`
+### `Staking Wallet DeFi`
 
-Crypto staking is a new way to earn passive income in the crypto world. It lets users to lock their assets on our platform to receive rewards. All without the need to sell their tokens. This allows them to earn a passive income while still maintaining ownership of their tokens.&#x20;
+Crypto Staking is a new way to earn passive income in the crypto world. It lets users to lock their assets on our platform to receive rewards. All without the need to sell their tokens. This allows them to earn a passive income while still maintaining ownership of their tokens.&#x20;
 
 By locking up tokens on our platform, you can receive rewards depending on the staking duration, and the number of token stakes. To participate in Wallet DeFi staking, you first need to stake the $WDF tokens on our linked crypto wallet. Then, you would have to send the tokens to a staking contract and lock them for a certain period. Once the staking platform locks the $WDF tokens, you start earning rewards.&#x20;
 

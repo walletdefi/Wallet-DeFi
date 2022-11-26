@@ -7,7 +7,7 @@
 * [🌁 Bridge](overview/bridge.md)
 * [💥 DeFi Concepts](overview/defi-concepts.md)
 * [📌 Web 3 Concepts](overview/web-3-concepts.md)
-* [🪙 Stake](overview/stake.md)
+* [🪙 Staking](overview/staking.md)
 * [⛰ Farming](overview/farming.md)
 * [🔐 Vault](overview/vault.md)
 * [🔁 BuyBack](overview/buyback.md)
