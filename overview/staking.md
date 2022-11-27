@@ -5,7 +5,7 @@ coverY: 0
 
 # 🪙 Staking
 
-### `StakingIntroduction`
+### `Staking Introduction`
 
 All blockchains have one thing in common: transactions need to get validated. Bitcoin for example does this in a process called mining which is known to use a lot of electricity (Proof-of-Work). There are, though, other consensus mechanisms that are used for validation. Proof-of-Stake (PoS) is one such consensus mechanism that has several variations of its own, as well as some hybrid models. To keep things simple, we will refer to all of these as staking. Coin staking gives currency holders some decision power on the network. By staking coins, you gain the ability to vote and generate an income. It is quite similar to how someone would receive interest for holding money in a bank account or giving it to the bank to invest.
 
