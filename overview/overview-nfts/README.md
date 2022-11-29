@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/capa.JPG
+cover: ../../.gitbook/assets/capa.JPG
 coverY: -182.8846153846154
 ---
 
@@ -35,20 +35,20 @@ Through the adoption process, your cat will receive a cool luxury feature and wi
 * To get your **CATS NFT**,
 * check out the collection on OpenSea.
 
-<figure><img src="../.gitbook/assets/CAT.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CAT.JPG" alt=""><figcaption></figcaption></figure>
 
 ### `Cats 2D Game`
 
 * Play as a CAT NFT inspired character.&#x20;
 * Exclusive to CAT NFT holders.
 
-<figure><img src="../.gitbook/assets/GAME.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GAME.JPG" alt=""><figcaption></figcaption></figure>
 
 ### `NFT Staking`&#x20;
 
 Time for staking has finally arrived! You can now do even more with your NFT. Staking is as easy as you’d expect: To get started, simply select one or all of your minted NFTs, and begin earning continuous ETH rewards!
 
-<figure><img src="../.gitbook/assets/NFT STAKING.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NFT STAKING.JPG" alt=""><figcaption></figcaption></figure>
 
 ### `All the Traits`
 
@@ -93,46 +93,46 @@ A little more of our NFT collection
 
 <div>
 
-<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/12.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/14.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/14.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/15.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/15.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
