@@ -11,7 +11,6 @@ coverY: 0
 * [x] Store stablecoins to avoid market volatility.
 * [x] Easily earn interest on the crypto in your wallet
 * [x] Stay private & secure storing your privacy coins.
-* [x] Buy more crypto with your credit card.
 * [x] Swap or trade your assets in seconds.
 
 ### `Why use`` ``DeFi Wallet Defi`
