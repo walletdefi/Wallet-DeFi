@@ -13,7 +13,6 @@
 * [🔁 BuyBack](overview/buyback.md)
 * [👻 Overview NFT's](overview/overview-nfts.md)
 * [📊 Tokenomics](overview/tokenomics.md)
-* [💱 Purchasing and sales rates](overview/purchasing-and-sales-rates.md)
 * [🛤 Roadmap](overview/roadmap.md)
 * [🕵♀ KYC & Audit](overview/kyc-and-audit.md)
 

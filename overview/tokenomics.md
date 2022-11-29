@@ -21,6 +21,8 @@ Presale Start Time**`:`**
 
 Presale End Time**`:`**
 
+## Completely tax-free
+
 {% embed url="https://bscscan.com/token/0xFC12242996ED64382286d765572F19e9B843F196" %}
 
 \
