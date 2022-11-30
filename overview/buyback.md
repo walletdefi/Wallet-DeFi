@@ -12,3 +12,12 @@ The WDF Vault is an automated smart contract with Compound Protocol integration 
 | **`15%`** | **`45%`** |
 
 <figure><img src="../.gitbook/assets/BUYBACK.JPG" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://farm.walletdefi.app/staking-buyback-2" %}
+15% APR&#x20;
+{% endembed %}
+
+{% embed url="https://farm.walletdefi.app/staking-buyback-1" %}
+45% APR
+{% endembed %}
+
