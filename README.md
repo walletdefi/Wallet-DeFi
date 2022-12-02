@@ -87,17 +87,8 @@ In addition, all of our smart contracts are monitored 24/7 through a Security Or
 * #### `Token Lock Vesting`
 *   #### `Security Oracle`
 
-    \
+    ``
 
+### `Access our social networks:`
 
-    \
-
-
-    \
-
-
-\
-\
-
-
-\
+{% embed url="https://linktr.ee/walletdefi" %}

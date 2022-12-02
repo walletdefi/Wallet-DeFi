@@ -26,4 +26,4 @@
 * [▪ Youtube Official](https://www.youtube.com/channel/UCAvE71P\_tG611pVg2hpJl1Q)
 * [▪ Website Official](https://dypwebsite.vercel.app/)
 * [▪ Discord Official](https://discord.gg/wgSM9A9mMU)
-* [▪ Buy $WDF](https://www.pinksale.finance/?chain=BSC)
+* [▪ Buy $WDF](https://www.pinksale.finance/launchpad/0x718810b0c7015Af20D3E87847478185463151859?chain=BSC)
