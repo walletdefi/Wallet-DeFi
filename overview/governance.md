@@ -17,3 +17,14 @@ Governance tokens are the primary method for performing decentralized governance
 
 In our DeFi Wallet the governance is given by a DeFi protocol that allows all our investor holders to request or offer cryptocurrency loans. We will give permission to $WDF holders to vote on our proposals and help in the decision making. With this we will eliminate misaligned interests and build a very active, collaborative and close community!
 
+{% embed url="https://gov.walletdefi.app/" %}
+**BNB CHAIN**
+{% endembed %}
+
+{% embed url="https://walletdefi.app/vote" %}
+**ETHEREUM**
+{% endembed %}
+
+{% embed url="https://govavax.walletdefi.app/" %}
+**AVALANCHE**
+{% endembed %}
