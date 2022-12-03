@@ -20,6 +20,22 @@ At Wallet DeFi we will have our own transaction bridge, where the protocol will 
 
 <figure><img src="../.gitbook/assets/BRIGDE.JPG" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://bridgebsceth.walletdefi.app/" %}
+**BSC - ETH**
+{% endembed %}
+
+{% embed url="https://bridgeethbsc.walletdefi.app/" %}
+**ETH - BSC**
+{% endembed %}
+
+{% embed url="https://bridgeavaxeth.walletdefi.app/" %}
+**AVAX - ETH**
+{% endembed %}
+
+{% embed url="https://bridgeethavax.walletdefi.app/" %}
+**ETH - AVAX**
+{% endembed %}
+
 
 
 

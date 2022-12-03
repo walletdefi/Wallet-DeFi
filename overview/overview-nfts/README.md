@@ -50,6 +50,8 @@ Time for staking has finally arrived! You can now do even more with your NFT. St
 
 <figure><img src="../../.gitbook/assets/NFT STAKING.JPG" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://walletdefi.app/stake-cats" %}
+
 ### `All the Traits`
 
 Discover all the little details that make each cat as smug, cute and adoptable as the other. You can easily discover their story and personality by checking out their outfit.
