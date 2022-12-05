@@ -32,18 +32,4 @@ As more people, especially institutional investors, recognize the crypto market'
 
 <figure><img src="../.gitbook/assets/STAKING.JPG" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://farm.walletdefi.app/staking-iwdf-3" %}
-5% APR
-{% endembed %}
-
-{% embed url="https://farm.walletdefi.app/staking-iwdf-4" %}
-20% APR
-{% endembed %}
-
-{% embed url="https://farm.walletdefi.app/staking-iwdf-1" %}
-5% APR
-{% endembed %}
-
-{% embed url="https://farm.walletdefi.app/staking-iwdf-2" %}
-20% APR
-{% endembed %}
+{% embed url="https://dypwebsite.vercel.app/earn" %}
